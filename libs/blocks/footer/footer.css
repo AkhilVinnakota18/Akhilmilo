@@ -1,3 +1,6 @@
+h1{
+  color: red;
+}
 footer {
   font-size: var(--type-body-xxs-size);
   padding: 1rem 0;
